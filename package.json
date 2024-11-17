@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "mocha ./test/extract-data.spec.js --no-timeouts"
+    "test": "mocha ./test/ecommerce.spec.js --no-timeouts"
   },
   "keywords": [],
   "author": "",
